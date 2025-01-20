@@ -442,9 +442,12 @@ h2 {
 .testimonial-section h1 {
   position: relative;
   top: 50px;
+  left: 460px;
   font-size: 2rem;
   margin-bottom: 30px;
   color: #6fbdf2;
+  font-size: 50px;
+  max-width: 40%;
 }
 
 .testimonial-carousel {
